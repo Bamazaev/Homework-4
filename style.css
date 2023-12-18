@@ -1,0 +1,63 @@
+.bag00{
+    display: flex;
+}
+body{
+}
+img{
+    width: 100%;
+}
+.bag0{
+    width: 70%;
+    height: 70%;
+    background-color: white;
+}
+.bag02{
+    width: 25%;
+    height: 100%;
+    background-color: white;
+}
+.bag1{
+    margin: 15px;
+    box-shadow: -2px -2px 5px rgba(128, 128, 128, 0.404);
+    padding: 10px;
+    display: inline-block;
+    width: 90%;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+span{
+    padding: 6px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: black;
+}
+.camen{
+    padding: 15px;
+    width: 200px;
+    border: 2px solid black;
+}
+.camen1{
+    width: 100%;
+    text-align: right;
+}
+.text{
+    display: flex;
+}
+.knop{
+    width: 20%;
+    margin: 15px;
+    display: flex;
+}
+.dtext{
+    text-align: left;
+    width: 50%;
+}
+.bag3{
+    margin: 15px;
+    box-shadow: -2px -2px 5px rgba(128, 128, 128, 0.404);
+    padding: 5px;
+    display: flex;
+    width: 100%;
+}
